@@ -1,0 +1,18 @@
+Difficulty decreases from first(top)
+
+
+
+Structure:
+demonName;creator;difficulty;levelId
+
+RUNAWAY;Hydrog;Insane Demon;10400
+top 1 maybe idk;YomayoCB; Insane Demon;2095
+Theory of Nothing;Eclipsemay;Medium Demon;4337
+Oppression by Nightfall;Nightfall;Medium Demon;10364
+Ñ;Rift;Unrated;12695
+clssical vip;Thuan;Medium Demon;3691
+GD Player Challenge;Crystalgdvn;Medium Demon;3470
+Death Corridor;Kour_is_Good;Demon;12456
+Into Darkness;Asdoss;Medium Demon;11469
+Flaschy;Momedz;Easy Demon;10346
+TROC;Jasonee19;Demon;15947
